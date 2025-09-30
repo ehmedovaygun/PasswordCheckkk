@@ -1,0 +1,32 @@
+D:\C# lesson\EmailCheck\EmailCheck\bin\Debug\net8.0-windows\EmailCheck.exe
+D:\C# lesson\EmailCheck\EmailCheck\bin\Debug\net8.0-windows\EmailCheck.deps.json
+D:\C# lesson\EmailCheck\EmailCheck\bin\Debug\net8.0-windows\EmailCheck.runtimeconfig.json
+D:\C# lesson\EmailCheck\EmailCheck\bin\Debug\net8.0-windows\EmailCheck.dll
+D:\C# lesson\EmailCheck\EmailCheck\bin\Debug\net8.0-windows\EmailCheck.pdb
+D:\C# lesson\EmailCheck\EmailCheck\obj\Debug\net8.0-windows\EmailCheck.Form1.resources
+D:\C# lesson\EmailCheck\EmailCheck\obj\Debug\net8.0-windows\EmailCheck.csproj.GenerateResource.cache
+D:\C# lesson\EmailCheck\EmailCheck\obj\Debug\net8.0-windows\EmailCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# lesson\EmailCheck\EmailCheck\obj\Debug\net8.0-windows\EmailCheck.AssemblyInfoInputs.cache
+D:\C# lesson\EmailCheck\EmailCheck\obj\Debug\net8.0-windows\EmailCheck.AssemblyInfo.cs
+D:\C# lesson\EmailCheck\EmailCheck\obj\Debug\net8.0-windows\EmailCheck.csproj.CoreCompileInputs.cache
+D:\C# lesson\EmailCheck\EmailCheck\obj\Debug\net8.0-windows\EmailCheck.dll
+D:\C# lesson\EmailCheck\EmailCheck\obj\Debug\net8.0-windows\refint\EmailCheck.dll
+D:\C# lesson\EmailCheck\EmailCheck\obj\Debug\net8.0-windows\EmailCheck.pdb
+D:\C# lesson\EmailCheck\EmailCheck\obj\Debug\net8.0-windows\EmailCheck.genruntimeconfig.cache
+D:\C# lesson\EmailCheck\EmailCheck\obj\Debug\net8.0-windows\ref\EmailCheck.dll
+E:\c#\MPL-2-main\MPL-2-main\EmailCheck\bin\Debug\net8.0-windows\EmailCheck.exe
+E:\c#\MPL-2-main\MPL-2-main\EmailCheck\bin\Debug\net8.0-windows\EmailCheck.deps.json
+E:\c#\MPL-2-main\MPL-2-main\EmailCheck\bin\Debug\net8.0-windows\EmailCheck.runtimeconfig.json
+E:\c#\MPL-2-main\MPL-2-main\EmailCheck\bin\Debug\net8.0-windows\EmailCheck.dll
+E:\c#\MPL-2-main\MPL-2-main\EmailCheck\bin\Debug\net8.0-windows\EmailCheck.pdb
+E:\c#\MPL-2-main\MPL-2-main\EmailCheck\obj\Debug\net8.0-windows\EmailCheck.Form1.resources
+E:\c#\MPL-2-main\MPL-2-main\EmailCheck\obj\Debug\net8.0-windows\EmailCheck.csproj.GenerateResource.cache
+E:\c#\MPL-2-main\MPL-2-main\EmailCheck\obj\Debug\net8.0-windows\EmailCheck.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\MPL-2-main\MPL-2-main\EmailCheck\obj\Debug\net8.0-windows\EmailCheck.AssemblyInfoInputs.cache
+E:\c#\MPL-2-main\MPL-2-main\EmailCheck\obj\Debug\net8.0-windows\EmailCheck.AssemblyInfo.cs
+E:\c#\MPL-2-main\MPL-2-main\EmailCheck\obj\Debug\net8.0-windows\EmailCheck.csproj.CoreCompileInputs.cache
+E:\c#\MPL-2-main\MPL-2-main\EmailCheck\obj\Debug\net8.0-windows\EmailCheck.dll
+E:\c#\MPL-2-main\MPL-2-main\EmailCheck\obj\Debug\net8.0-windows\refint\EmailCheck.dll
+E:\c#\MPL-2-main\MPL-2-main\EmailCheck\obj\Debug\net8.0-windows\EmailCheck.pdb
+E:\c#\MPL-2-main\MPL-2-main\EmailCheck\obj\Debug\net8.0-windows\EmailCheck.genruntimeconfig.cache
+E:\c#\MPL-2-main\MPL-2-main\EmailCheck\obj\Debug\net8.0-windows\ref\EmailCheck.dll
